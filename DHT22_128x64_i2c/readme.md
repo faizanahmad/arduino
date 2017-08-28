@@ -1,10 +1,5 @@
 Adafruit 128x64 OLED interfacting with Arduino
 
-VDD = +5V
-GND = GND
-SCK = A5
-SDA = A4
-
 install Adafruit 1306 Library
 https://github.com/adafruit/Adafruit_SSD1306
 
