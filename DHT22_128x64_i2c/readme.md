@@ -1,4 +1,15 @@
+Displaying Temperature and Humidity Values on 128x64 OLED Display
+
+DHT22 data pin attached to Digital Pin4
+
+--------------------------------------------------------------------
+
 Adafruit 128x64 OLED interfacting with Arduino
+
+VDD = +5V
+GND = GND
+SCK = A5
+SDA = A4
 
 install Adafruit 1306 Library
 https://github.com/adafruit/Adafruit_SSD1306
